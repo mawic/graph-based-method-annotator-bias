@@ -1,0 +1,4 @@
+ktrain
+krippendorff
+networkx
+python-louvain
